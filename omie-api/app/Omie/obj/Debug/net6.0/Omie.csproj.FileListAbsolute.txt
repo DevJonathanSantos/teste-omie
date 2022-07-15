@@ -1,0 +1,14 @@
+C:\project\teste-omie\Omie\app\Omie\bin\Debug\net6.0\Omie.deps.json
+C:\project\teste-omie\Omie\app\Omie\bin\Debug\net6.0\Omie.runtimeconfig.json
+C:\project\teste-omie\Omie\app\Omie\bin\Debug\net6.0\Omie.dll
+C:\project\teste-omie\Omie\app\Omie\bin\Debug\net6.0\ref\Omie.dll
+C:\project\teste-omie\Omie\app\Omie\bin\Debug\net6.0\Omie.pdb
+C:\project\teste-omie\Omie\app\Omie\obj\Debug\net6.0\Omie.GeneratedMSBuildEditorConfig.editorconfig
+C:\project\teste-omie\Omie\app\Omie\obj\Debug\net6.0\Omie.AssemblyInfoInputs.cache
+C:\project\teste-omie\Omie\app\Omie\obj\Debug\net6.0\Omie.AssemblyInfo.cs
+C:\project\teste-omie\Omie\app\Omie\obj\Debug\net6.0\Omie.csproj.CoreCompileInputs.cache
+C:\project\teste-omie\Omie\app\Omie\obj\Debug\net6.0\Omie.dll
+C:\project\teste-omie\Omie\app\Omie\obj\Debug\net6.0\ref\Omie.dll
+C:\project\teste-omie\Omie\app\Omie\obj\Debug\net6.0\Omie.pdb
+C:\project\teste-omie\Omie\app\Omie\obj\Debug\net6.0\Omie.genruntimeconfig.cache
+C:\project\teste-omie\Omie\app\Omie\obj\Debug\net6.0\Omie.csproj.AssemblyReference.cache

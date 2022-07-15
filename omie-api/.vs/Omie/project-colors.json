@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "44177945-ad70-44bc-9d25-79dbb25b64fc": {
+      "ProjectGuid": "44177945-ad70-44bc-9d25-79dbb25b64fc",
+      "DisplayName": "Omie.WebApii",
+      "ColorIndex": 0
+    },
+    "9f0e810c-cc76-4493-b712-fe74d88f3e2a": {
+      "ProjectGuid": "9f0e810c-cc76-4493-b712-fe74d88f3e2a",
+      "DisplayName": "Omie",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "be4567d5-c9b6-4a77-8115-054cfcd4a474": {
+      "ProjectGuid": "be4567d5-c9b6-4a77-8115-054cfcd4a474",
+      "DisplayName": "Omie.WebApi",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

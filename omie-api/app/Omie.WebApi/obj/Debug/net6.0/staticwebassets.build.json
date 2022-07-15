@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "mXwqs//YxH4JRZq8YTDOuWE3LqzElkvWGTVFWnIqMRo=",
+  "Source": "Omie.WebApi",
+  "BasePath": "_content/Omie.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
